@@ -14,7 +14,6 @@ I'm a pre-final year student pursuing Bachelors's in Information Technology 🎓
 - :wrench: I love to play with Neural Networks :computer:.
 - 🚀 I’m currently learning Deployment of Deep Learning models using Flask.
 - 👾 Most of my projects are available on [Github](https://github.com/KKhushhalR2405/).
--:open_hands: My Idol : [Soumith Chintala](https://soumith.ch/).
 - 👨 From using TV Remote as a Mobile to using Mobile as a TV Remote, I grew up (PS: I MISS MY CHILDHOOD :sob::sob::sob:).
 - 📫 How to reach me: reddykhushhal2405@gmail.com
 - 📝 Checkout my [Resume](https://github.com/KKhushhalR2405/KKhushhalR2405/blob/master/Resume.pdf).
