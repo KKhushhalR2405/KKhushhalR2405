@@ -1,5 +1,7 @@
 ## Hello World 2.0, I'm [Khushhal Reddy!](https://github.com/KKhushhalR2405/) <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>  
 
+<img align="left" height="180" width="375" alt="" src="https://github.com/KKhushhalR2405/Bio/blob/master/add1.gif" />
+
 ### Glad to see you here! <img src="https://github.com/KKhushhalR2405/Bio/blob/master/gifs/emoji.gif" width="27px">
 
 I'm a pre-final year student pursuing Bachelors's in Information Technology 🎓 from **Vellore Institute of Technology** 🏛. I'm a passionate learner who's always willing to learn and work across different technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to Code👨🏻‍💻. I'm currently into Deep-Learning Domain 🕸️ and working on my Public Speaking Skills🤓.
