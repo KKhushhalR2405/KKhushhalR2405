@@ -1,4 +1,5 @@
-## Hello World 2.0, I'm [Khushhal Reddy!](https://github.com/KKhushhalR2405/) <img src="https://github.com/KKhushhalR2405/Bio/blob/master/gifs/hello.gif" width="30px"></h2>  
+<img src="https://github.com/KKhushhalR2405/Bio/blob/master/gifs/hello.gif" width="30px"></h2>
+## World 2.0, I'm [Khushhal Reddy!](https://github.com/KKhushhalR2405/) <img src="https://github.com/KKhushhalR2405/Bio/blob/master/gifs/hello.gif" width="30px"></h2>  
 
 ### Glad to see you here! <img src="https://github.com/KKhushhalR2405/Bio/blob/master/gifs/emoji.gif" width="27px">
 
