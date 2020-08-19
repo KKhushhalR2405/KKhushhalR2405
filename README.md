@@ -31,6 +31,7 @@ I'm a pre-final year student pursuing Bachelors in Information Technology 🎓 f
 <img src="https://github.com/KKhushhalR2405/Bio/blob/master/html.gif" width="100px"></h2>&nbsp; &nbsp; &nbsp;
 <img src="https://github.com/KKhushhalR2405/Bio/blob/master/javascript.gif" width="50px"></h2>&nbsp; &nbsp; &nbsp;
 <img src="https://github.com/KKhushhalR2405/Bio/blob/master/heroku.png" width="30px"></h2>&nbsp; &nbsp; &nbsp;
+<img src="https://github.com/KKhushhalR2405/Bio/blob/master/django.png" width="100px"></h2>&nbsp; &nbsp; &nbsp;
 <img src="https://github.com/KKhushhalR2405/Bio/blob/master/github.png" width="75px"></h2>&nbsp; &nbsp; &nbsp;
 <img src="https://github.com/KKhushhalR2405/Bio/blob/master/keras.png" width="50px"></h2>&nbsp; &nbsp; &nbsp;
 <img src="https://github.com/KKhushhalR2405/Bio/blob/master/pytorch.gif" width="50px"></h2>&nbsp; &nbsp; &nbsp;
