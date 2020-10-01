@@ -1,4 +1,4 @@
-## Hello World 2.0!!!! , I'm [Khushhal Reddy!](https://github.com/KKhushhalR2405/) <img src="https://github.com/KKhushhalR2405/Bio/blob/master/gifs/Hi.gif" width="30px"></h2>  
+## Hello World 2.0!!!! , I'm [<img  alt="https://github.com/KKhushhalR2405/Bio/blob/master/name.gif" width="50px" src="https://github.com/KKhushhalR2405/Bio/blob/master/github.gif" />][github]  
 
 ### There are (10^9 + 7) profiles on Github......Welcome to mine! <img src="https://github.com/KKhushhalR2405/Bio/blob/master/gifs/emoji.gif" width="27px">
 
