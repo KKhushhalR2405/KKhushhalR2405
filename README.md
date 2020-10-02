@@ -52,7 +52,7 @@ I'm a pre-final year student pursuing Bachelors in Information Technology 🎓 f
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KKhushhalR2405)](https://github.com/anuraghazra/github-readme-stats)
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=KKhushhalR2405&show_icons=true&theme=gradient&count_private=true)
+![My github stats](https://github-readme-stats.vercel.app/api?username=KKhushhalR2405&show_icons=true&theme=merko&count_private=true)
 
 <img src="https://github.com/KKhushhalR2405/Bio/blob/master/add3.gif" width="1200px"></h2>
 
