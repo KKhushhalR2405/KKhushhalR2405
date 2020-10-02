@@ -60,7 +60,7 @@ I'm a pre-final year student pursuing Bachelors in Information Technology 🎓 f
   <img align="center" height = "196px"src="https://github-readme-stats.vercel.app/api/wakatime?username=KKhushhalR2405&theme=gruvbox" />
 </a>
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <img src="https://github.com/KKhushhalR2405/Bio/blob/master/add3.gif" width="1200px"></h2>
 
