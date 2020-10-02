@@ -54,6 +54,14 @@ I'm a pre-final year student pursuing Bachelors in Information Technology 🎓 f
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=KKhushhalR2405&show_icons=true&theme=merko&count_private=true)
 
+
+<a href="https://github.com/KKhushhalR2405">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=KKhushhalR2405&show_icons=true&theme=merko&count_private=true" />
+</a>
+<a href="https://github.com/KKhushhalR2405">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KKhushhalR2405" />
+</a>
+
 <img src="https://github.com/KKhushhalR2405/Bio/blob/master/add3.gif" width="1200px"></h2>
 
 
