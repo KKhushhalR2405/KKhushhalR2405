@@ -50,7 +50,7 @@ I'm a pre-final year student pursuing Bachelors in Information Technology 🎓 f
 
 <img src="https://github.com/KKhushhalR2405/Bio/blob/master/border.gif" width="1100px" height="10px"></h2>
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=KKhushhalR2405&show_icons=true&theme=merko)
+![My github stats](https://github-readme-stats.vercel.app/api?username=KKhushhalR2405&show_icons=true&theme=merko&count_private=true)
 
 <img src="https://github.com/KKhushhalR2405/Bio/blob/master/add3.gif" width="1200px"></h2>
 
