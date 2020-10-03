@@ -56,9 +56,7 @@ I'm a pre-final year student pursuing Bachelors in Information Technology 🎓 f
 <a href="https://github.com/KKhushhalR2405">
   <img align="center" height = "196px"src="https://github-readme-stats.vercel.app/api/top-langs/?username=KKhushhalR2405&layout=compact&theme=gruvbox" />
 </a>
-<a href="https://github.com/KKhushhalR2405">
-  <img align="center" height = "196px"src="https://github-readme-stats.vercel.app/api/wakatime?username=KKhushhalR2405&theme=gruvbox" />
-</a>
+
 
 
 
