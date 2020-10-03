@@ -53,7 +53,7 @@ I'm a pre-final year student pursuing Bachelors in Information Technology 🎓 f
 <a href="https://github.com/KKhushhalR2405">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=KKhushhalR2405&show_icons=true&theme=merko&count_private=true" />
 </a>
-<br/><br/><br/><br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
 <a href="https://github.com/KKhushhalR2405">
   <img align="left" height = "296px "src="https://github-readme-stats.vercel.app/api/top-langs/?username=KKhushhalR2405&theme=gruvbox" />
