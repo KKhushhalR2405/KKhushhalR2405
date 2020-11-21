@@ -15,7 +15,7 @@ I'm a pre-final year student pursuing Bachelors in Information Technology 🎓 f
 - 🚀 I’m currently learning Deployment of Deep Learning models using Flask.
 - 👾 Most of my projects are available on [Github](https://github.com/KKhushhalR2405/).
 - 👨 From using TV Remote as a Mobile to using Mobile as a TV Remote, I grew up (PS: I MISS MY CHILDHOOD :sob::sob::sob:).
-- 👅 I prefer Python Over C++  :P :D
+- 👅 I prefer Python Over C++ &nbsp &nbsp:P :D
 - 📫 How to reach me: reddykhushhal2405@gmail.com
 - 📝 Checkout my [Resume](https://github.com/KKhushhalR2405/KKhushhalR2405/blob/master/Resume.pdf).
 
