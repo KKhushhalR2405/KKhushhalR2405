@@ -21,7 +21,7 @@ I'm a pre-final year student pursuing Bachelors in Information Technology 🎓 f
 
 <img src="https://github.com/KKhushhalR2405/Bio/blob/master/border.gif" width="1100px" height="10px"></h2>
 
-### Languages and Tools:
+### My Tech Stack:
 
 <img src="https://github.com/KKhushhalR2405/Bio/blob/master/python%20gif.gif" width="50px"></h2>&nbsp; &nbsp; &nbsp;
 <img src="https://github.com/KKhushhalR2405/Bio/blob/master/cpp.png" width="50px"></h2>&nbsp; &nbsp; &nbsp;
