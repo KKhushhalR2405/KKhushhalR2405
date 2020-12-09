@@ -63,7 +63,7 @@ I'm a pre-final year student pursuing Bachelors in Information Technology 🎓 f
 
 
 
-<img src="https://github.com/KKhushhalR2405/Bio/blob/master/add2.gif" width="200px"></h2>
+<img src="https://github.com/KKhushhalR2405/Bio/blob/master/add2.gif" width="1400px" height="10px"></h2>
 
 
 [linkedin]:https://www.linkedin.com/in/khushhalreddy/
