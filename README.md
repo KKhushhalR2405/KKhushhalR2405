@@ -60,7 +60,7 @@ I'm a pre-final year student pursuing Bachelors in Information Technology 🎓 f
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
 <img src="https://github.com/KKhushhalR2405/Bio/blob/master/Mario_Gameplay.gif" width="1400px" height="270px"></h2>
-<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+
 
 
 [linkedin]:https://www.linkedin.com/in/khushhalreddy/
