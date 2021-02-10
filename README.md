@@ -15,7 +15,7 @@ I'm a pre-final year student pursuing Bachelors in Information Technology 🎓 f
 - 🚀 I’m currently learning Deployment of Deep Learning models using Flask.
 - 👅 I prefer Python Over C++ &nbsp; &nbsp;:P :D
 - 📫 How to reach me: reddykhushhal2405@gmail.com
-- 📝 Checkout my [Resume](https://github.com/KKhushhalR2405/KKhushhalR2405/blob/master/Resume.pdf).
+- 📝 Checkout my [Resume](https://github.com/KKhushhalR2405/KKhushhalR2405/blob/master/Resume%20-%20Koyya%20Khushhal%20Reddy.pdf).
 
 <img src="https://github.com/KKhushhalR2405/Bio/blob/master/border.gif" width="1100px" height="10px"></h2>
 
