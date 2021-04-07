@@ -24,7 +24,7 @@ I'm a pre-final year student pursuing Bachelors in Information Technology 🎓 f
 <img src="https://github.com/KKhushhalR2405/Bio/blob/master/python%20gif.gif" width="50px"></h2>&nbsp; &nbsp; &nbsp;
 <img src="https://github.com/KKhushhalR2405/Bio/blob/master/cpp.png" width="50px"></h2>&nbsp; &nbsp; &nbsp;
 <img src="https://github.com/KKhushhalR2405/Bio/blob/master/aws.gif" width="100px"></h2>&nbsp; &nbsp; &nbsp;
-<img src="https://github.com/KKhushhalR2405/Bio/blob/master/opencv.png" width="45px"></h2>&nbsp; &nbsp; &nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/OpenCV_Logo_with_text_svg_version.svg/730px-OpenCV_Logo_with_text_svg_version.svg.png" width="45px"></h2>&nbsp; &nbsp; &nbsp;
 <img src="https://github.com/KKhushhalR2405/Bio/blob/master/flask.png" width="100px"></h2>&nbsp; &nbsp; &nbsp;
 <img src="https://github.com/KKhushhalR2405/Bio/blob/master/hadoop.jpg" width="80px"></h2>&nbsp; &nbsp; &nbsp;
 <img src="https://github.com/KKhushhalR2405/Bio/blob/master/html.gif" width="100px"></h2>&nbsp; &nbsp; &nbsp;
