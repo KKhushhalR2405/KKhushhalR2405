@@ -58,14 +58,13 @@ I'm a pre-final year student pursuing Bachelors in Information Technology 🎓 f
   <img align="left" height = "296px "src="https://github-readme-stats.vercel.app/api/top-langs/?username=KKhushhalR2405&theme=gruvbox" />
 </a>
 
-<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
 ### Badges
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=KKhushhalR2405&theme=onedark)](https://github.com/KKhushhalR2405/github-profile-trophy)
 
 
-<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
 <br/><br/>
 <img src="https://github.com/KKhushhalR2405/Bio/blob/master/Mario_Gameplay.gif" width="1400px" height="270px"></h2>
