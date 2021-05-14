@@ -21,20 +21,22 @@ I'm a pre-final year student pursuing Bachelors in Information Technology 🎓 f
 
 ### My Tech Stack:
 
-<img src="https://github.com/KKhushhalR2405/Bio/blob/master/python%20gif.gif" width="50px"></h2>&nbsp; &nbsp; &nbsp;
-<img src="https://github.com/KKhushhalR2405/Bio/blob/master/cpp.png" width="50px"></h2>&nbsp; &nbsp; &nbsp;
-<img src="https://github.com/KKhushhalR2405/Bio/blob/master/aws.gif" width="100px"></h2>&nbsp; &nbsp; &nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/OpenCV_Logo_with_text_svg_version.svg/730px-OpenCV_Logo_with_text_svg_version.svg.png" width="45px"></h2>&nbsp; &nbsp; &nbsp;
-<img src="https://user-images.githubusercontent.com/58569950/117612989-c3dffa80-b183-11eb-8bf2-13640e41f630.png" width="80px"></h2>&nbsp; &nbsp; &nbsp;
-<img src="https://github.com/KKhushhalR2405/Bio/blob/master/hadoop.jpg" width="80px"></h2>&nbsp; &nbsp; &nbsp;
-<img src="https://github.com/KKhushhalR2405/Bio/blob/master/html.gif" width="100px"></h2>&nbsp; &nbsp; &nbsp;
-<img src="https://github.com/KKhushhalR2405/Bio/blob/master/javascript.gif" width="50px"></h2>&nbsp; &nbsp; &nbsp;
-<img src="https://github.com/KKhushhalR2405/Bio/blob/master/heroku.png" width="30px"></h2>&nbsp; &nbsp; &nbsp;
-<img src="https://github.com/KKhushhalR2405/Bio/blob/master/django.png" width="100px"></h2>&nbsp; &nbsp; &nbsp;
-<img src="https://github.com/KKhushhalR2405/Bio/blob/master/github.png" width="75px"></h2>&nbsp; &nbsp; &nbsp;
-<img src="https://github.com/KKhushhalR2405/Bio/blob/master/keras.png" width="50px"></h2>&nbsp; &nbsp; &nbsp;
-<img src="https://github.com/KKhushhalR2405/Bio/blob/master/pytorch.gif" width="50px"></h2>&nbsp; &nbsp; &nbsp;
-<img src="https://github.com/KKhushhalR2405/Bio/blob/master/tensorflow.gif" width="100px"></h2>&nbsp; &nbsp; &nbsp;
+
+![image](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;&nbsp;
+![image](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;&nbsp;
+![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;&nbsp;
+![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;&nbsp;
+![image](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;&nbsp;
+![image](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;&nbsp;
+![image](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)&nbsp;&nbsp;
+![image](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)&nbsp;&nbsp;
+![image](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)&nbsp;&nbsp;
+![image](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)&nbsp;&nbsp;
+![image](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)&nbsp;&nbsp;
+![image](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)&nbsp;&nbsp;
+![image](https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white)&nbsp;&nbsp;
+![image](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)&nbsp;&nbsp;
+![image](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)&nbsp;&nbsp;
 
 <img src="https://github.com/KKhushhalR2405/Bio/blob/master/border.gif" width="1100px" height="10px"></h2>
 
