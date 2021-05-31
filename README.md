@@ -71,12 +71,12 @@ I'm a pre-final year student pursuing Bachelors in Information Technology 🎓 f
 
 <img src="https://github.com/KKhushhalR2405/Bio/blob/master/border.gif" width="1100px" height="10px"></h2>
 
+<p align="center">
 <a href="https://github.com/KKhushhalR2405">
-  <img align="left" height = "200px" src="https://github-readme-stats.vercel.app/api?username=KKhushhalR2405&show_icons=true&theme=merko&count_private=true" />
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=KKhushhalR2405&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=KKhushhalR2405&layout=compact&langs_count=8&theme=algolia"/>
 </a>
-<a href="https://github.com/KKhushhalR2405">
-  <img height = "200px "src="https://github-readme-stats.vercel.app/api/top-langs/?username=KKhushhalR2405&theme=gruvbox&layout=compact" />
-</a>
+</p>
 
 
 <br/><br/>
