@@ -73,8 +73,8 @@ I'm a pre-final year student pursuing Bachelors in Information Technology 🎓 f
 
 <p align="center">
 <a href="https://github.com/KKhushhalR2405">
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=KKhushhalR2405&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=KKhushhalR2405&layout=compact&langs_count=8&theme=algolia"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=KKhushhalR2405&show_icons=true&theme=blue-green&count_private=true"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=KKhushhalR2405&layout=compact&langs_count=8&theme=blue-green"/>
 </a>
 </p>
 
