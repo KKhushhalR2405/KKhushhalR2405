@@ -74,9 +74,6 @@ I'm a pre-final year student pursuing Bachelors in Information Technology 🎓 f
 </p>
 
 
-<br/><br/>
-<img src="https://github.com/KKhushhalR2405/Bio/blob/master/Mario_Gameplay.gif" width="1400px" height="270px"></h2>
-
 [linkedin]:https://www.linkedin.com/in/khushhalreddy/
 [github]:https://github.com/KKhushhalR2405/
 [instagram]:https://www.instagram.com/w._.icked_hyp.ster/
