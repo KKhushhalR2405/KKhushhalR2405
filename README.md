@@ -61,7 +61,7 @@ I'm a Final year student pursuing Bachelors in Information Technology 🎓 from 
 [<img align="left" alt="https://www.instagram.com/w._.icked_hyp.ster/" width="135px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />][instagram]\
 <br/>
 
-:exclamation::exclamation:Open to anything under Sun:exclamation::exclamation:
+:exclamation::exclamation:Open to anything under sun:exclamation::exclamation:
 
 
 <img src="https://github.com/KKhushhalR2405/Bio/blob/master/border.gif" width="1100px" height="10px"></h2>
