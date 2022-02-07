@@ -57,7 +57,6 @@ I'm a Final year student pursuing Bachelors in Information Technology 🎓 from 
 
 ### Contact Me <br>
 [<img align="left" alt="https://www.linkedin.com/in/khushhalreddy/" width="125px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
-[<img align="left" alt="https://github.com/KKhushhalR2405/" width="115px" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />][github]
 [<img align="left" alt="https://www.instagram.com/w._.icked_hyp.ster/" width="135px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />][instagram]\
 <br/>
 
