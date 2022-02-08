@@ -1,4 +1,4 @@
-# Hello World !!     I am Khushhal Reddy
+# Hello World!!     I am Khushhal Reddy
 
 ### There are (10^9 + 7) profiles on Github......Welcome to mine! <img src="https://github.com/KKhushhalR2405/Bio/blob/master/gifs/emoji.gif" width="27px">
 
