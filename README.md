@@ -4,7 +4,7 @@
 
 I'm a Final year student pursuing Bachelors in Information Technology 🎓 from **Vellore Institute of Technology** 🏛. I'm a passionate learner who is always willing to learn and work across different technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to Code👨🏻‍💻. I'm currently into Deep-Learning 🕸️ and working on my Public Speaking Skills🤓.
 
-<img src="https://github.com/KKhushhalR2405/Bio/blob/master/border.gif" width="1100px" height="10px"></h2>
+<img src="https://github.com/KKhushhalR2405/Bio/blob/master/border.gif" width="11000px" height="10px"></h2>
 
 <img align="right" height="250" width="375" alt="" src="https://github.com/KKhushhalR2405/Bio/blob/master/coding2.gif" />
 
@@ -17,7 +17,7 @@ I'm a Final year student pursuing Bachelors in Information Technology 🎓 from 
 - 📫 How to reach me: reddykhushhal2405@gmail.com
 - 📝 Checkout my [Resume](https://github.com/KKhushhalR2405/KKhushhalR2405/blob/master/Resume%20-%20Koyya%20Khushhal%20Reddy.pdf).
 
-<img src="https://github.com/KKhushhalR2405/Bio/blob/master/border.gif" width="1100px" height="10px"></h2>
+<img src="https://github.com/KKhushhalR2405/Bio/blob/master/border.gif" width="11000px" height="10px"></h2>
 
 ### My Tech Stack:
 
@@ -43,7 +43,7 @@ I'm a Final year student pursuing Bachelors in Information Technology 🎓 from 
 ![image](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)&nbsp;&nbsp;
 ![image](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=Google%20Colab&logoColor=white)&nbsp;&nbsp;
 
-<img src="https://github.com/KKhushhalR2405/Bio/blob/master/border.gif" width="1100px" height="10px"></h2>
+<img src="https://github.com/KKhushhalR2405/Bio/blob/master/border.gif" width="11000px" height="10px"></h2>
 
 
 ### OS
@@ -52,7 +52,7 @@ I'm a Final year student pursuing Bachelors in Information Technology 🎓 from 
 ![image](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)&nbsp;&nbsp;
 ![image](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)&nbsp;&nbsp;
 
-<img src="https://github.com/KKhushhalR2405/Bio/blob/master/border.gif" width="1100px" height="10px"></h2>
+<img src="https://github.com/KKhushhalR2405/Bio/blob/master/border.gif" width="11000px" height="10px"></h2>
 
 ### Contact Me <br>
 [<img align="left" alt="https://www.linkedin.com/in/khushhalreddy/" width="125px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
@@ -62,7 +62,7 @@ I'm a Final year student pursuing Bachelors in Information Technology 🎓 from 
 :exclamation::exclamation:Open to anything under Sun:exclamation::exclamation:
 
 
-<img src="https://github.com/KKhushhalR2405/Bio/blob/master/border.gif" width="1100px" height="10px"></h2>
+<img src="https://github.com/KKhushhalR2405/Bio/blob/master/border.gif" width="11000px" height="10px"></h2>
 
 <p align="center">
 <a href="https://github.com/KKhushhalR2405">
