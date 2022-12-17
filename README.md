@@ -8,12 +8,10 @@ Great appetite for learning technologies for Backend Development. Detail-oriente
 
 ### Talking about Personal Stuffs:
 
-- 🛠 I’m currently working with Pytorch :flashlight:.
-- :wrench: I love to play with Neural Networks :computer:.
-- 🚀 I’m currently learning Deployment of Deep Learning models using Flask.
+- 🛠 I’m currently working with Java, Spring boot :flashlight:.
+- 🚀 I’m love exploring Microservice architectures.
 - 👅 I prefer Python Over C++ &nbsp; &nbsp;:P :D
 - 📫 How to reach me: reddykhushhal2405@gmail.com
-- 📝 Checkout my [Resume](https://github.com/KKhushhalR2405/KKhushhalR2405/blob/master/Resume%20-%20Koyya%20Khushhal%20Reddy.pdf).
 
 <img src="https://github.com/KKhushhalR2405/Bio/blob/master/border.gif" width="11000px" height="10px"></h2>
 
