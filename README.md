@@ -2,7 +2,7 @@
 
 ### There are (10^9 + 7) profiles on Github......Welcome to mine! <img src="https://github.com/KKhushhalR2405/Bio/blob/master/gifs/emoji.gif" width="15px">
 
-I'm a Final year student pursuing Bachelors in Information Technology 🎓 from **Vellore Institute of Technology** 🏛. I'm a passionate learner who is always willing to learn and work across different technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to Code👨🏻‍💻. I'm currently into Deep-Learning 🕸️ and working on my Public Speaking Skills🤓.
+Great appetite for learning technologies for Backend Development. Detail-oriented individual, able to follow written procedures with minimal direction.  Skilled in Python, Java, Spring boot, Django, Microservices, Deep Learning, Machine Learning, and Computer Vision. Currently working as a Software engineer at Wibmo/PayU.
 
 <img src="https://github.com/KKhushhalR2405/Bio/blob/master/border.gif" width="11000px" height="10px"></h2>
 
