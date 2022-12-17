@@ -1,7 +1,5 @@
 # Hello World!!     I am Khushhal Reddy
 
-### There are (10^9 + 7) profiles on Github......Welcome to mine! <img src="https://github.com/KKhushhalR2405/Bio/blob/master/gifs/emoji.gif" width="15px">
-
 Great appetite for learning technologies for Backend Development. Detail-oriented individual, able to follow written procedures with minimal direction.  Skilled in Python, Java, Spring boot, Django, Microservices, Deep Learning, Machine Learning, and Computer Vision. Currently working as a Software engineer at Wibmo/PayU.
 
 <img src="https://github.com/KKhushhalR2405/Bio/blob/master/border.gif" width="11000px" height="10px"></h2>
